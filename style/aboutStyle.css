@@ -3,6 +3,10 @@
     position: relative;
   }   
   
+
+
+
+
   .aboutBG {
     min-height: 200px;
     height: 100%;
@@ -11,7 +15,10 @@
     background-size: cover;
     background-image: url("/imgs/AboutUs.png");
     object-fit: contain;
+    
 }
+
+
 
 .aboutBG h2, p{
     margin: 0px;
@@ -36,10 +43,11 @@
 .aboutGreen-bar {
     position: relative;
     background-color: #1A2D21;
-    padding-top: 40px; 
+    padding-top: 30px; 
     top: -40px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+   
 }
 
 .box-container {
@@ -55,3 +63,18 @@
 
 
 }
+
+.aboutH2{
+ font-size: 30px;
+    color: white;
+    padding-bottom: 30px;
+    
+}
+
+/* .leftBoxPadding{
+    padding-left: 20px;
+} */
+
+/* .rightBoxPadding{
+    padding-right: 20px;
+} */
