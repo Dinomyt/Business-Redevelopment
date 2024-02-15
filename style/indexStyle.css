@@ -56,10 +56,9 @@
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     border-top: none;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adjust the shadow as needed */
-
-
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+
 
 .serviceDiv {
     display: flex;
@@ -101,6 +100,7 @@
     justify-content: center;
     align-items: center;
 }
+
 @media (max-width: 767px) {
     .custom-row {
       display: flex;
@@ -127,4 +127,5 @@
     .secondRow {
         width: 60%;
     }
+    
 }
