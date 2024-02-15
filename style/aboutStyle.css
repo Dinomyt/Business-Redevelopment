@@ -60,7 +60,7 @@
     border-bottom-right-radius: 10px;
     border-top: none;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adjust the shadow as needed */
-
+    height: 400px;
 
 }
 
@@ -78,3 +78,43 @@
 /* .rightBoxPadding{
     padding-right: 20px;
 } */
+@media screen and (max-width: 989px) {
+    .aboutBreak {
+        flex-direction: column !important;
+    }
+    h2 {
+        font-size: 14px;
+      }
+      p,a,td,th {
+          font-size: 12px;
+      }
+        .aboutBreak .col-6 {
+            width: 100%;
+        }
+
+
+}
+.aboutBreak{
+    display:flex; 
+    justify-content:center;
+    align-items: center;
+}
+
+@media screen and (max-width: 767px) {
+    h2 {
+        font-size: 30px !important;
+      }
+      p,a,td,th {
+          font-size: 20px !important;
+      }
+}
+
+@media screen and (min-width: 989px) {
+    .aboutGreen-bar h2 {
+        font-size: 30px !important;
+       }
+       
+       .box-container p {
+       font-size: 20px !important;
+       }
+}
