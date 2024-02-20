@@ -55,10 +55,10 @@
     padding-top: 20px;
 }
 
-.contactBG h2 {
+#contactBG h2 {
     font-size: 30px!important;
 }
 
-.contactBG p {
+#contactBG p {
     font-size: 16px!important;
 }
