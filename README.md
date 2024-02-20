@@ -1,31 +1,26 @@
-# Challenge #3 - Puppy Restaurant
+# Business-Redevelopment
 
 Neng Lao
 ---------------------
--  Designed Responsive Template used in all pages (navbar, footer, and background)  
--  Created home.html page using bootstrap for responsiveness.  
--  Created about.html page using bootstrap for responsiveness.  
+-  Designed Responsive Template used in all pages (navbar and footer)  
+-  Created index.html page using bootstrap for responsiveness.  
+-  Created service.html page using bootstrap for responsiveness.  
 ----------------------
 
-Tony Fernandez  
+Alicia Raquel 
 ---------------------
-- Created menu.html page using bootstrap for responsiveness.
+- Created contact.html page using bootstrap for responsiveness.
 ----------------------
 
 Alejandro De La Cruz  
 ---------------------
- - Created catering.html page using bootstrap for responsiveness.
- - Created photos.html page using bootstrap for responsiveness.
+ - Created about.html page using bootstrap for responsiveness.
 ----------------------
   
 Peer Reviewers:  
 ---------------------
-  
-  Saroeut Sim
-  Johnny Pham
-  Julius Ponce De Leon
 
-  Their website worked perfectly and it looked exactly like the website that was given to us. The responsiveness was great on all the pages, overall a wonderful job!
+
 ---------------------
 
 
