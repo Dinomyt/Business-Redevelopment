@@ -72,7 +72,6 @@ h2, p, a{
         font-size: 1.4vw;
     }
 }
-
 @media screen and (max-width: 767px) {
     h2 {
         font-size: 14px;
@@ -82,8 +81,3 @@ h2, p, a{
       }
 }
 
-/* @media (max-width: 768px) {
-    .flex-md-column {
-      flex-direction: column !important;
-    }
-} */
